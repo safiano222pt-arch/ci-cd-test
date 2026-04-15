@@ -19,4 +19,4 @@ jobs:
           server: ${{ secrets.FTP_SERVER }}
           username: ${{ secrets.FTP_USERNAME }}
           password: ${{ secrets.FTP_PASSWORD }}
-          server-dir: safiano-portfolio.samo7930.odns.fr/
+          server-dir: safiano-portfolio.wrkfreelance.com/
